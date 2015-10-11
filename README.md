@@ -1,2 +1,2 @@
-# SRCNN_Conveter-C-
+# SRCNN_Conveter
 A Simple C++ Conveter of SRCNN

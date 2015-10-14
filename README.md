@@ -4,3 +4,5 @@ SRCNN(Super-Resolution Convolutional Neural Network) is a super-resolution algor
 ## Simple Introduction
 I write this converter in my undergraduate thesis project in March 2015.Inspired by [waifu2x](https://github.com/nagadomi/waifu2x), I decided to put my code in github and improve it.   
 waifu2x is also a super-resolution project follow the idea of SRCNN, but there is not only super-resolution but also image denoise in waifu2x.Compare to waifu2x, my code is not perfect and there are many advantages worth learning in waifu2x.
+## Requirement
+* OpenCV 2.4.x or OpenCV 3.0
